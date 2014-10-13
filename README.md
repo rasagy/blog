@@ -1,4 +1,5 @@
-blog
-====
+# Design Notes by Rasagy
 
-Repo for my blog. Currently hosted using jekyll.
+Repo for my blog.
+
+Based on [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine))'s gorgeous [Pixyll theme](https://github.com/johnotander/pixyll) for [Jekyll](http://jekyllrb.com). :)

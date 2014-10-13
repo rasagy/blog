@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Rasagy Sharma
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Designer, used to visualize data at Microsoft India, recent post-grad from NID, Bangalore.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Loves Clicking Photos, Coding for Fun, Taking SketchNotes & Anything Minimal.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Based on [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine))'s gorgeous [Pixyll theme](https://github.com/johnotander/pixyll) for [Jekyll](http://jekyllrb.com). :)
