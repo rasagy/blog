@@ -5,9 +5,13 @@ author: Rasagy Sharma
 description: "My design blog!"
 baseurl: "/blog"
 url: "http://rasagy.in/blog"
-google_analytics:
+google_analytics: "UA-6381820-2"
 animated: true
 show_related_posts: false
+
+# Social Links
+github_username: "rasagy"
+twitter_username: "rasagy"
 
 # Build settings
 markdown: kramdown
