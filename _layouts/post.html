@@ -32,4 +32,10 @@ layout: default
   {% endfor %}
 {% endif %}
 
-{% include comments.html %}
+{% if site.show_twitter_plug %}
+  {% include twitter_plug.html %}
+{% endif %}
+
+{% if site.show_disqus %}
+  {% include comments.html %}
+{% endif %}

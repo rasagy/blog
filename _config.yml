@@ -8,6 +8,8 @@ url: "http://rasagy.in/blog"
 google_analytics: "UA-6381820-2"
 animated: true
 show_related_posts: false
+show_twitter_plug: false
+show_disqus: true
 
 # Social Links
 github_username: "rasagy"
