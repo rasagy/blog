@@ -10,6 +10,9 @@ animated: true
 show_related_posts: false
 show_twitter_plug: false
 show_disqus: true
+nav_list:
+  About: '/about'
+  Contact: '/contact'
 
 # Social Links
 github_username: "rasagy"

@@ -1,2 +1,4 @@
-<a href="{{ site.baseurl }}/about/">About</a>
-<a href="{{ site.baseurl }}/contact/">Contact</a>
+{% for nav in site.nav_list %}
+  &nbsp;&nbsp;
+  <small><a href="{{ site.baseurl }}{{ nav[1] }}">{{ nav[0] }}</a></small>
+{% endfor %}
