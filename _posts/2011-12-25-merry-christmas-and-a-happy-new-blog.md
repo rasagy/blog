@@ -4,7 +4,8 @@ title:      Merry Christmas and a Happy New Blog!
 permalink:  "/2011/12/merry-christmas-and-a-happy-new-blog/"
 date:       2011-12-25 00:00:00
 summary:    What better time to start a new blog, than NOW? Finally, I have one place to archive my thoughts, ideas & sketchnotes.
-categories: diary announcements
+category:   diary
+tags:       announcements
 ---
 
 What better time to start a new blog, than NOW? Finally, I have one place to archive my thoughts, ideas & sketchnotes.
