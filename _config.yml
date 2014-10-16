@@ -21,6 +21,6 @@ twitter_username: "rasagy"
 # Build settings
 markdown: kramdown
 permalink: "/:year/:month/:title/"
-paginate: 3
+paginate: 5
 sass:
   compressed: true
